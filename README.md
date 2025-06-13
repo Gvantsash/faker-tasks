@@ -12,5 +12,5 @@ Address
 
 
 გამოყენებულია:
-Maven
+Maven,
 Faker ბიბლიოთეკა
